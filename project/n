@@ -1,1 +1,3 @@
-
+small project about multithreading client & server 
+client log in server with valid password and user name
+then sends messges to server
